@@ -1,5 +1,4 @@
 # Rooted Cafe
-[Arts at the Armory](artsatthearmory.org) 
-[Cafe Menu](artsatthearmory.square.site)  
-[Catering Menu](rootedcafe.github.io/catering)  
-[Instagram](instagram.com/rootedarmorycafe)  
+[Menu](https://artsatthearmory.square.site)  
+[Catering](https://rootedcafe.github.io/catering)  
+[Instagram](https://instagram.com/rootedarmorycafe)  
